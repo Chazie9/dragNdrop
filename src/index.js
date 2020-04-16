@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import '@atlaskit/css-reset'
 import initialData from './initial-data'
-import Column from './Column'
+import Column from './components/Column'
 import  { DragDropContext } from 'react-beautiful-dnd'
 
 class App extends Component {

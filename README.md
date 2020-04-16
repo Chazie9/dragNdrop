@@ -1,3 +1,13 @@
+
+To start
+npm install
+npm start
+
+to change the content of the cells update the initial-data.js
+to change colors of the task update task.js Container
+to change colors of the task list update Column.js TaskList
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
